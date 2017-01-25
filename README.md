@@ -1,2 +1,2 @@
 # ucloud
-sample repository.... edited
+sample repository.... EDITED
